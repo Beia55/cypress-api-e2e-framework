@@ -1,0 +1,16 @@
+{
+    "auth":{
+        "firstName": "testFirstName",
+        "lastName": "testLastName",
+        "username": "testUsername",
+        "password": "testPassword"
+    },
+    "multiform":{
+        "name":"testName",
+        "email":"testEmail",
+        "console":{
+            "no":1,
+            "xbox":"xbox"
+        }
+    }
+}

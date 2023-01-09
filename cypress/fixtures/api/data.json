@@ -1,0 +1,19 @@
+{
+    "postNewPost":{
+        "userId": 1,
+        "title": "new post",
+        "body": "some description..."
+    },
+    "putPost":{
+        "id": 3,
+        "userId": 1,
+        "title": "post edited",
+        "body": "some description edited..."
+    },
+    "putTodo":{
+        "userId": 1,
+        "id": 1,
+        "title": "edited todo",
+        "completed": true
+    }
+}

@@ -1,0 +1,6 @@
+export { LoginPage } from './LoginPage'
+export { RegisterPage } from './RegisterPage'
+export { CheatsheetsPage } from './CheatsheetsPage'
+export { DemoSitePage } from './DemoSitePage'
+export { AngularJsPracticePage } from './AngularJsPracticePage'
+export { MultiformPage } from './MultiformPage'

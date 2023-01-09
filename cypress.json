@@ -1,0 +1,12 @@
+{
+  "watchForFilesChanges": false,
+  "chromeWebSecurity": false,
+  "viewportWidth": 1000,
+  "viewportHeight": 600,
+  "waitForAnimation": true,
+  "defaultCommandTimeout": 10000,
+  "pageLoadTimeout": 10000,
+  "video": false,
+  "failOnStatusCode": false,
+  "integrationFolder":"."
+}
