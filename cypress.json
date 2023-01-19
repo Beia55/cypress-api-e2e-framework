@@ -7,6 +7,15 @@
   "defaultCommandTimeout": 10000,
   "pageLoadTimeout": 10000,
   "video": false,
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "reportDir": "cypress/reports",
+    "overwrite": false,
+    "html": false,
+    "json": true,
+    "timestamp": "mmddyyyy_HHMMss"
+  },
   "failOnStatusCode": false,
   "integrationFolder":"."
 }
+
